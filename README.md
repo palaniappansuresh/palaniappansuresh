@@ -1,5 +1,6 @@
 <h1>PALANIAPPAN S</h1>
 <p>Studies at Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai Campus</p>
+![](https://komarev.com/ghpvc/?username=palaniappansuresh&style=flat-square)
 <!--
 **palaniappansuresh/palaniappansuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
