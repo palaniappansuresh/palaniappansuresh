@@ -1,5 +1,6 @@
 <h1>PALANIAPPAN S</h1>
 <p>Studies at Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai Campus</p>
+<p>CGPA: 9.37</p>
 
 <!--
 **palaniappansuresh/palaniappansuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
