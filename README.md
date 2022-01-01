@@ -1,4 +1,4 @@
-<h1>Palaniappan S</h1>
+<h1>PALANIAPPAN S 👋</h1>
 <p>19Y | Bachelor in Technology CSE '23 at Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai Campus | Chess Player | Developer </p>
 
 <!--
