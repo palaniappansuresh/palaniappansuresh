@@ -1,5 +1,5 @@
 <h1>PALANIAPPAN S 👋</h1>
-<p>19Y | Bachelor in Technology CSE '23 at Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai Campus | Chess Player | Developer </p>
+<p>20Y | Bachelor in Technology CSE '23 at Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai Campus | Chess Player | Developer </p>
 
 <!--
 **palaniappansuresh/palaniappansuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
